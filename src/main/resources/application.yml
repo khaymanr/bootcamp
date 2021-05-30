@@ -17,4 +17,4 @@ spring:
       ddl-auto: none
 
 application:
-  description: Project created for the Santander Java-Angular Bootcamp.
+  description: Project created for the Santander Java-Angular Bootcamp - Backend.
